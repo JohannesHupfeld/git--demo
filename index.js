@@ -1,1 +1,4 @@
-console.log("Hello World");
+const greeting = () => {
+  console.log("Hello World");
+}
+
